@@ -1,0 +1,31 @@
+name: Actualiser les données CDM 2026
+
+on:
+  schedule:
+    # Toutes les 3 heures. Ajuste selon le calendrier des matchs (format cron, heure UTC).
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}   # ajoute un bouton "Run workflow" manuel dans l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Interroger Claude et générer data/live.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/update-data.mjs
+
+      - name: Committer le fichier si changement
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: actualisation automatique des données CDM 2026"
+          file_pattern: data/live.json
