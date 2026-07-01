@@ -1,31 +1,207 @@
 {
   "matches": [
-    {"a":"Allemagne","fa":"🇩🇪","b":"Paraguay","fb":"🇵🇾","score":"1-1 (3-4 tab)","w":"b","s":"done","d":"29/06 · terminé"},
-    {"a":"France","fa":"🇫🇷","b":"Suède","fb":"🇸🇪","score":null,"w":null,"s":"pending","d":"01/07 · 23:00"},
-    {"a":"Afrique du Sud","fa":"🇿🇦","b":"Canada","fb":"🇨🇦","score":"0-1","w":"b","s":"done","d":"terminé"},
-    {"a":"Pays-Bas","fa":"🇳🇱","b":"Maroc","fb":"🇲🇦","score":"1-1 (2-3 tab)","w":"b","s":"done","d":"terminé"},
-    {"a":"Portugal","fa":"🇵🇹","b":"Croatie","fb":"🇭🇷","score":null,"w":null,"s":"pending","d":"03/07"},
-    {"a":"Espagne","fa":"🇪🇸","b":"Autriche","fb":"🇦🇹","score":null,"w":null,"s":"pending","d":"02/07"},
-    {"a":"États-Unis","fa":"🇺🇸","b":"Bosnie-Herz.","fb":"🇧🇦","score":null,"w":null,"s":"pending","d":"02/07"},
-    {"a":"Belgique","fa":"🇧🇪","b":"Sénégal","fb":"🇸🇳","score":null,"w":null,"s":"pending","d":"01/07"},
-    {"a":"Brésil","fa":"🇧🇷","b":"Japon","fb":"🇯🇵","score":"2-1","w":"a","s":"done","d":"terminé"},
-    {"a":"Côte d'Ivoire","fa":"🇨🇮","b":"Norvège","fb":"🇳🇴","score":null,"w":null,"s":"pending","d":"01/07 · 19:00"},
-    {"a":"Mexique","fa":"🇲🇽","b":"Équateur","fb":"🇪🇨","score":null,"w":null,"s":"pending","d":"01/07"},
-    {"a":"Angleterre","fa":"🏴","b":"RD Congo","fb":"🇨🇩","score":null,"w":null,"s":"pending","d":"01/07"},
-    {"a":"Argentine","fa":"🇦🇷","b":"Cap-Vert","fb":"🇨🇻","score":null,"w":null,"s":"pending","d":"04/07"},
-    {"a":"Australie","fa":"🇦🇺","b":"Égypte","fb":"🇪🇬","score":null,"w":null,"s":"pending","d":"03/07"},
-    {"a":"Suisse","fa":"🇨🇭","b":"Algérie","fb":"🇩🇿","score":null,"w":null,"s":"pending","d":"03/07"},
-    {"a":"Colombie","fa":"🇨🇴","b":"Ghana","fb":"🇬🇭","score":null,"w":null,"s":"pending","d":"04/07"}
+    {
+      "a": "Allemagne",
+      "fa": "🇩🇪",
+      "b": "Paraguay",
+      "fb": "🇵🇾",
+      "score": "1-1 (4-3 tab)",
+      "w": "b",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "France",
+      "fa": "🇫🇷",
+      "b": "Suède",
+      "fb": "🇸🇪",
+      "score": "3-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "AfriqueDuSud",
+      "fa": "🇿🇦",
+      "b": "Canada",
+      "fb": "🇨🇦",
+      "score": "0-1",
+      "w": "b",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "PaysBas",
+      "fa": "🇳🇱",
+      "b": "Maroc",
+      "fb": "🇲🇦",
+      "score": "1-1 (3-2 tab)",
+      "w": "b",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "Portugal",
+      "fa": "🇵🇹",
+      "b": "Croatie",
+      "fb": "🇭🇷",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (jeudi 2 juillet, Toronto)"
+    },
+    {
+      "a": "Espagne",
+      "fa": "🇪🇸",
+      "b": "Autriche",
+      "fb": "🇦🇹",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (jeudi 2 juillet, Inglewood)"
+    },
+    {
+      "a": "EtatsUnis",
+      "fa": "🇺🇸",
+      "b": "Bosnie",
+      "fb": "🇧🇦",
+      "score": null,
+      "w": null,
+      "s": "today",
+      "d": "se joue aujourd'hui (mercredi 1 juillet, Santa Clara)"
+    },
+    {
+      "a": "Belgique",
+      "fa": "🇧🇪",
+      "b": "Senegal",
+      "fb": "🇸🇳",
+      "score": null,
+      "w": null,
+      "s": "today",
+      "d": "se joue aujourd'hui (mercredi 1 juillet, Seattle)"
+    },
+    {
+      "a": "Bresil",
+      "fa": "🇧🇷",
+      "b": "Japon",
+      "fb": "🇯🇵",
+      "score": "2-1",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "CoteDIvoire",
+      "fa": "🇨🇮",
+      "b": "Norvege",
+      "fb": "🇳🇴",
+      "score": "1-2",
+      "w": "b",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "Mexique",
+      "fa": "🇲🇽",
+      "b": "Equateur",
+      "fb": "🇪🇨",
+      "score": "2-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "Angleterre",
+      "fa": "🏴",
+      "b": "RDCongo",
+      "fb": "🇨🇩",
+      "score": "2-1",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
+    },
+    {
+      "a": "Argentine",
+      "fa": "🇦🇷",
+      "b": "CapVert",
+      "fb": "🇨🇻",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (vendredi 3 juillet, Miami)"
+    },
+    {
+      "a": "Australie",
+      "fa": "🇦🇺",
+      "b": "Egypte",
+      "fb": "🇪🇬",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (vendredi 3 juillet, Arlington)"
+    },
+    {
+      "a": "Suisse",
+      "fa": "🇨🇭",
+      "b": "Algerie",
+      "fb": "🇩🇿",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (jeudi 2 juillet, Vancouver)"
+    },
+    {
+      "a": "Colombie",
+      "fa": "🇨🇴",
+      "b": "Ghana",
+      "fb": "🇬🇭",
+      "score": null,
+      "w": null,
+      "s": "pending",
+      "d": "à venir (vendredi 3 juillet, Kansas City)"
+    }
   ],
   "r16": [
-    {"left":"Paraguay 🇵🇾","right":"Vainqueur Fr–Suède","when":"04/07"},
-    {"left":"Canada 🇨🇦","right":"Maroc 🇲🇦","when":"04/07"},
-    {"left":"2e K vs 2e L","right":"1er H vs 2e J","when":"06/07"},
-    {"left":"1er D vs 3e BEFIJ","right":"1er G vs 3e AEHIJ","when":"07/07"},
-    {"left":"Brésil 🇧🇷","right":"Vainqueur CIV–Norvège","when":"05/07"},
-    {"left":"1er A vs 3e CEFHI","right":"1er L vs 3e EHIJK","when":"06/07"},
-    {"left":"1er J vs 2e H","right":"2e D vs 2e G","when":"07/07"},
-    {"left":"1er B vs 3e EFGIJ","right":"1er K vs 3e DEIJL","when":"07/07"}
+    {
+      "left": "France",
+      "right": "Paraguay",
+      "when": "samedi 4 juillet, Philadelphie"
+    },
+    {
+      "left": "Canada",
+      "right": "Maroc",
+      "when": "samedi 4 juillet, Houston"
+    },
+    {
+      "left": "Vainqueur Portugal-Croatie",
+      "right": "Vainqueur Espagne-Autriche",
+      "when": "lundi 6 juillet, Dallas"
+    },
+    {
+      "left": "Vainqueur EtatsUnis-Bosnie",
+      "right": "Vainqueur Belgique-Senegal",
+      "when": "lundi 6 juillet, Seattle"
+    },
+    {
+      "left": "Bresil",
+      "right": "Norvege",
+      "when": "dimanche 5 juillet, New Jersey"
+    },
+    {
+      "left": "Mexique",
+      "right": "Angleterre",
+      "when": "dimanche 5 juillet, Mexico"
+    },
+    {
+      "left": "Vainqueur Argentine-CapVert",
+      "right": "Vainqueur Australie-Egypte",
+      "when": "mardi 7 juillet, Atlanta"
+    },
+    {
+      "left": "Vainqueur Suisse-Algerie",
+      "right": "Vainqueur Colombie-Ghana",
+      "when": "mardi 7 juillet, Vancouver"
+    }
   ],
-  "updated": "1 juillet 2026 (données de référence, avant premier passage de l'Action)"
+  "updated": "1 juillet 2026"
 }
