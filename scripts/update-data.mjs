@@ -26,7 +26,7 @@ const response = await fetch('https://api.anthropic.com/v1/messages', {
   },
   body: JSON.stringify({
     model: 'claude-sonnet-5',
-    max_tokens: 2000,
+    max_tokens: 8192,
     messages: [{ role: 'user', content: prompt }],
     tools: [{ type: 'web_search_20250305', name: 'web_search' }],
   }),
@@ -44,7 +44,8 @@ const firstBrace = clean.indexOf('{');
 const lastBrace = clean.lastIndexOf('}');
 
 if (firstBrace === -1 || lastBrace === -1) {
-  console.error('Pas de JSON exploitable dans la réponse:', textBlocks);
+  console.error('Pas de JSON exploitable. stop_reason:', data.stop_reason);
+  console.error('Contenu complet reçu:', JSON.stringify(data.content, null, 2));
   process.exit(1);
 }
 clean = clean.slice(firstBrace, lastBrace + 1);
