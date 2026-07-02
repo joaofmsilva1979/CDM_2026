@@ -8,7 +8,7 @@
       "score": "1-1 (3-4 tab)",
       "w": "b",
       "s": "done",
-      "d": "terminé (29 juin, Foxborough)"
+      "d": "terminé"
     },
     {
       "a": "France",
@@ -18,7 +18,7 @@
       "score": "3-0",
       "w": "a",
       "s": "done",
-      "d": "terminé (30 juin, East Rutherford)"
+      "d": "terminé"
     },
     {
       "a": "AfriqueDuSud",
@@ -28,7 +28,7 @@
       "score": "0-1",
       "w": "b",
       "s": "done",
-      "d": "terminé (28 juin, Los Angeles)"
+      "d": "terminé"
     },
     {
       "a": "PaysBas",
@@ -38,7 +38,7 @@
       "score": "1-1 (2-3 tab)",
       "w": "b",
       "s": "done",
-      "d": "terminé (29 juin, Monterrey)"
+      "d": "terminé"
     },
     {
       "a": "Portugal",
@@ -48,7 +48,7 @@
       "score": null,
       "w": null,
       "s": "pending",
-      "d": "à venir (2 juillet, Toronto)"
+      "d": "3 juillet"
     },
     {
       "a": "Espagne",
@@ -57,28 +57,28 @@
       "fb": "🇦🇹",
       "score": null,
       "w": null,
-      "s": "pending",
-      "d": "à venir (2 juillet, Los Angeles)"
+      "s": "today",
+      "d": "2 juillet"
     },
     {
       "a": "EtatsUnis",
       "fa": "🇺🇸",
       "b": "Bosnie",
       "fb": "🇧🇦",
-      "score": null,
-      "w": null,
-      "s": "today",
-      "d": "se joue aujourd'hui (1er juillet, 20h ET, Santa Clara)"
+      "score": "2-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     },
     {
       "a": "Belgique",
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 (a.p.)",
+      "score": "3-2 a.p.",
       "w": "a",
       "s": "done",
-      "d": "terminé (1er juillet, Seattle, but Tielemans 125e)"
+      "d": "terminé"
     },
     {
       "a": "Bresil",
@@ -88,7 +88,7 @@
       "score": "2-1",
       "w": "a",
       "s": "done",
-      "d": "terminé (29 juin, Houston)"
+      "d": "terminé"
     },
     {
       "a": "CoteDIvoire",
@@ -98,7 +98,7 @@
       "score": "1-2",
       "w": "b",
       "s": "done",
-      "d": "terminé (30 juin)"
+      "d": "terminé"
     },
     {
       "a": "Mexique",
@@ -108,7 +108,7 @@
       "score": "2-0",
       "w": "a",
       "s": "done",
-      "d": "terminé (30 juin, Mexico City)"
+      "d": "terminé"
     },
     {
       "a": "Angleterre",
@@ -118,7 +118,7 @@
       "score": "2-1",
       "w": "a",
       "s": "done",
-      "d": "terminé (1er juillet, Atlanta)"
+      "d": "terminé"
     },
     {
       "a": "Argentine",
@@ -128,7 +128,7 @@
       "score": null,
       "w": null,
       "s": "pending",
-      "d": "à venir (3 juillet, Miami)"
+      "d": "3 juillet"
     },
     {
       "a": "Australie",
@@ -138,7 +138,7 @@
       "score": null,
       "w": null,
       "s": "pending",
-      "d": "à venir (3 juillet, Arlington/Dallas)"
+      "d": "3 juillet"
     },
     {
       "a": "Suisse",
@@ -147,8 +147,8 @@
       "fb": "🇩🇿",
       "score": null,
       "w": null,
-      "s": "pending",
-      "d": "à venir (2 juillet, Vancouver)"
+      "s": "today",
+      "d": "2 juillet"
     },
     {
       "a": "Colombie",
@@ -158,7 +158,7 @@
       "score": null,
       "w": null,
       "s": "pending",
-      "d": "à venir (3 juillet, Kansas City)"
+      "d": "3 juillet"
     }
   ],
   "r16": [
@@ -168,28 +168,28 @@
       "when": "4 juillet, Houston"
     },
     {
-      "left": "Paraguay",
-      "right": "France",
+      "left": "France",
+      "right": "Paraguay",
       "when": "4 juillet, Philadelphie"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "5 juillet, East Rutherford"
+      "when": "5 juillet, New Jersey"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "5 juillet, Mexico City (Azteca)"
+      "when": "5 juillet, Mexico"
     },
     {
-      "left": "Vainqueur Portugal-Croatie",
+      "left": "1er Groupe K/1er Groupe L (Portugal ou Croatie)",
       "right": "Vainqueur Espagne-Autriche",
-      "when": "6 juillet, Arlington"
+      "when": "6 juillet, Dallas"
     },
     {
-      "left": "Vainqueur EtatsUnis-Bosnie",
-      "right": "Belgique",
+      "left": "Belgique",
+      "right": "EtatsUnis",
       "when": "6 juillet, Seattle"
     },
     {
@@ -203,5 +203,5 @@
       "when": "7 juillet, Vancouver"
     }
   ],
-  "updated": "1 juillet 2026"
+  "updated": "2 juillet 2026"
 }
