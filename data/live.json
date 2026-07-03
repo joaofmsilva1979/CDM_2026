@@ -45,20 +45,20 @@
       "fa": "🇵🇹",
       "b": "Croatie",
       "fb": "🇭🇷",
-      "score": null,
-      "w": null,
-      "s": "pending",
-      "d": "3 juillet"
+      "score": "2-1",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     },
     {
       "a": "Espagne",
       "fa": "🇪🇸",
       "b": "Autriche",
       "fb": "🇦🇹",
-      "score": null,
-      "w": null,
-      "s": "today",
-      "d": "2 juillet"
+      "score": "3-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     },
     {
       "a": "EtatsUnis",
@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 a.p.",
+      "score": "3-2 (ap)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -112,7 +112,7 @@
     },
     {
       "a": "Angleterre",
-      "fa": "🇬🇧",
+      "fa": "🏴",
       "b": "RDCongo",
       "fb": "🇨🇩",
       "score": "2-1",
@@ -127,8 +127,8 @@
       "fb": "🇨🇻",
       "score": null,
       "w": null,
-      "s": "pending",
-      "d": "3 juillet"
+      "s": "today",
+      "d": "aujourd'hui"
     },
     {
       "a": "Australie",
@@ -137,18 +137,18 @@
       "fb": "🇪🇬",
       "score": null,
       "w": null,
-      "s": "pending",
-      "d": "3 juillet"
+      "s": "today",
+      "d": "aujourd'hui"
     },
     {
       "a": "Suisse",
       "fa": "🇨🇭",
       "b": "Algerie",
       "fb": "🇩🇿",
-      "score": null,
-      "w": null,
-      "s": "today",
-      "d": "2 juillet"
+      "score": "2-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     },
     {
       "a": "Colombie",
@@ -157,51 +157,51 @@
       "fb": "🇬🇭",
       "score": null,
       "w": null,
-      "s": "pending",
-      "d": "3 juillet"
+      "s": "today",
+      "d": "aujourd'hui"
     }
   ],
   "r16": [
     {
       "left": "Canada",
       "right": "Maroc",
-      "when": "4 juillet, Houston"
+      "when": "4 juillet 2026, 13h00 ET (Houston)"
     },
     {
       "left": "France",
       "right": "Paraguay",
-      "when": "4 juillet, Philadelphie"
+      "when": "4 juillet 2026, 17h00 ET (Philadelphie)"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "5 juillet, New Jersey"
+      "when": "5 juillet 2026, 16h00 ET (East Rutherford)"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "5 juillet, Mexico"
+      "when": "5 juillet 2026, 20h00 ET (Mexico)"
     },
     {
-      "left": "1er Groupe K/1er Groupe L (Portugal ou Croatie)",
-      "right": "Vainqueur Espagne-Autriche",
-      "when": "6 juillet, Dallas"
+      "left": "Espagne",
+      "right": "Portugal",
+      "when": "6 juillet 2026, 15h00 ET (Arlington)"
     },
     {
       "left": "Belgique",
       "right": "EtatsUnis",
-      "when": "6 juillet, Seattle"
+      "when": "6 juillet 2026, 20h00 ET (Seattle)"
     },
     {
-      "left": "Vainqueur Argentine-CapVert",
-      "right": "Vainqueur Australie-Egypte",
-      "when": "7 juillet, Atlanta"
+      "left": "1er Argentine-CapVert",
+      "right": "1er Australie-Egypte",
+      "when": "7 juillet 2026, 12h00 ET (Atlanta)"
     },
     {
-      "left": "Vainqueur Suisse-Algerie",
-      "right": "Vainqueur Colombie-Ghana",
-      "when": "7 juillet, Vancouver"
+      "left": "Suisse",
+      "right": "1er Colombie-Ghana",
+      "when": "7 juillet 2026, 16h00 ET (Vancouver)"
     }
   ],
-  "updated": "2 juillet 2026"
+  "updated": "3 juillet 2026"
 }
