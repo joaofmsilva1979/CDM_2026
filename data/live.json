@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 (ap)",
+      "score": "3-2 (a.p.)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -128,7 +128,7 @@
       "score": null,
       "w": null,
       "s": "today",
-      "d": "aujourd'hui"
+      "d": "aujourd'hui (18h00 ET, Miami)"
     },
     {
       "a": "Australie",
@@ -138,7 +138,7 @@
       "score": null,
       "w": null,
       "s": "today",
-      "d": "aujourd'hui"
+      "d": "aujourd'hui (14h00 ET, Dallas)"
     },
     {
       "a": "Suisse",
@@ -158,49 +158,49 @@
       "score": null,
       "w": null,
       "s": "today",
-      "d": "aujourd'hui"
+      "d": "aujourd'hui (21h30 ET, Kansas City)"
     }
   ],
   "r16": [
     {
-      "left": "Canada",
-      "right": "Maroc",
-      "when": "4 juillet 2026, 13h00 ET (Houston)"
+      "left": "Paraguay",
+      "right": "France",
+      "when": "Samedi 4 juillet, 17h00 ET - Philadelphie"
     },
     {
-      "left": "France",
-      "right": "Paraguay",
-      "when": "4 juillet 2026, 17h00 ET (Philadelphie)"
+      "left": "Canada",
+      "right": "Maroc",
+      "when": "Samedi 4 juillet, 13h00 ET - Houston"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "5 juillet 2026, 16h00 ET (East Rutherford)"
+      "when": "Dimanche 5 juillet, 16h00 ET - New York/New Jersey"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "5 juillet 2026, 20h00 ET (Mexico)"
+      "when": "Dimanche 5 juillet, 20h00 ET - Mexico (Estadio Azteca)"
     },
     {
       "left": "Espagne",
       "right": "Portugal",
-      "when": "6 juillet 2026, 15h00 ET (Arlington)"
+      "when": "Lundi 6 juillet, 15h00 ET - Dallas"
     },
     {
-      "left": "Belgique",
-      "right": "EtatsUnis",
-      "when": "6 juillet 2026, 20h00 ET (Seattle)"
+      "left": "EtatsUnis",
+      "right": "Belgique",
+      "when": "Lundi 6 juillet, 20h00 ET - Seattle"
     },
     {
-      "left": "1er Argentine-CapVert",
-      "right": "1er Australie-Egypte",
-      "when": "7 juillet 2026, 12h00 ET (Atlanta)"
+      "left": "1er GroupeD/G (Australie/Egypte)",
+      "right": "1er GroupeJ/H (Argentine/CapVert)",
+      "when": "Mardi 7 juillet, 12h00 ET - Atlanta"
     },
     {
       "left": "Suisse",
-      "right": "1er Colombie-Ghana",
-      "when": "7 juillet 2026, 16h00 ET (Vancouver)"
+      "right": "1er GroupeK/L (Colombie/Ghana)",
+      "when": "Mardi 7 juillet, 16h00 ET - Vancouver"
     }
   ],
   "updated": "3 juillet 2026"
