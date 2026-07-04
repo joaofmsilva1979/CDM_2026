@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 a.p.",
+      "score": "3-2 ap",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -112,7 +112,7 @@
     },
     {
       "a": "Angleterre",
-      "fa": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "fa": "🇬🇧",
       "b": "RDCongo",
       "fb": "🇨🇩",
       "score": "2-1",
@@ -125,7 +125,7 @@
       "fa": "🇦🇷",
       "b": "CapVert",
       "fb": "🇨🇻",
-      "score": "3-2 a.p.",
+      "score": "3-2 ap",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -165,42 +165,42 @@
     {
       "left": "Canada",
       "right": "Maroc",
-      "when": "Samedi 4 juillet 2026, 19h (heure française) à Houston"
+      "when": "Samedi 4 juillet, 13h00 (Houston, NRG Stadium)"
     },
     {
       "left": "France",
       "right": "Paraguay",
-      "when": "Samedi 4 juillet 2026, 23h (heure française) à Philadelphie"
+      "when": "Samedi 4 juillet, 17h00 (Philadelphie, Lincoln Financial Field)"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "Dimanche 5 juillet 2026, 22h (heure française) à East Rutherford (New Jersey)"
+      "when": "Dimanche 5 juillet, 16h00 (New Jersey, MetLife Stadium)"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "Dimanche 5 juillet 2026 (nuit), 2h (heure française) à Mexico"
+      "when": "Dimanche 5 juillet, 20h00 (Mexico, Estadio Azteca)"
     },
     {
       "left": "Espagne",
       "right": "Portugal",
-      "when": "Lundi 6 juillet 2026, 21h (heure française) à Dallas"
+      "when": "Lundi 6 juillet, 15h00 (Dallas, AT&T Stadium)"
     },
     {
       "left": "Belgique",
       "right": "EtatsUnis",
-      "when": "Lundi 6 juillet 2026 (nuit), 2h (heure française) à Seattle"
+      "when": "Lundi 6 juillet, 20h00 (Seattle, Lumen Field)"
     },
     {
       "left": "Egypte",
       "right": "Argentine",
-      "when": "Mardi 7 juillet 2026, 18h (heure française) à Atlanta"
+      "when": "Mardi 7 juillet, 12h00 (Atlanta, Mercedes-Benz Stadium)"
     },
     {
       "left": "Suisse",
       "right": "Colombie",
-      "when": "Mardi 7 juillet 2026, 22h (heure française) à Vancouver"
+      "when": "Mardi 7 juillet, 16h00 (Vancouver, BC Place)"
     }
   ],
   "updated": "4 juillet 2026"
