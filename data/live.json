@@ -112,7 +112,7 @@
     },
     {
       "a": "Angleterre",
-      "fa": "🏴",
+      "fa": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "b": "RDCongo",
       "fb": "🇨🇩",
       "score": "2-1",
@@ -125,10 +125,10 @@
       "fa": "🇦🇷",
       "b": "CapVert",
       "fb": "🇨🇻",
-      "score": null,
-      "w": null,
-      "s": "today",
-      "d": "aujourd'hui"
+      "score": "3-2 a.p.",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     },
     {
       "a": "Australie",
@@ -155,53 +155,53 @@
       "fa": "🇨🇴",
       "b": "Ghana",
       "fb": "🇬🇭",
-      "score": null,
-      "w": null,
-      "s": "today",
-      "d": "aujourd'hui"
+      "score": "1-0",
+      "w": "a",
+      "s": "done",
+      "d": "terminé"
     }
   ],
   "r16": [
     {
-      "left": "Paraguay",
-      "right": "France",
-      "when": "4 juillet, Philadelphie"
-    },
-    {
       "left": "Canada",
       "right": "Maroc",
-      "when": "4 juillet, Houston"
+      "when": "Samedi 4 juillet 2026, 19h (heure française) à Houston"
+    },
+    {
+      "left": "France",
+      "right": "Paraguay",
+      "when": "Samedi 4 juillet 2026, 23h (heure française) à Philadelphie"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "5 juillet, East Rutherford (New Jersey)"
+      "when": "Dimanche 5 juillet 2026, 22h (heure française) à East Rutherford (New Jersey)"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "5 juillet, Mexico"
+      "when": "Dimanche 5 juillet 2026 (nuit), 2h (heure française) à Mexico"
     },
     {
       "left": "Espagne",
       "right": "Portugal",
-      "when": "6 juillet, Arlington (Dallas)"
+      "when": "Lundi 6 juillet 2026, 21h (heure française) à Dallas"
     },
     {
       "left": "Belgique",
       "right": "EtatsUnis",
-      "when": "6 juillet, Seattle"
+      "when": "Lundi 6 juillet 2026 (nuit), 2h (heure française) à Seattle"
     },
     {
       "left": "Egypte",
-      "right": "vainqueur Argentine-CapVert",
-      "when": "7 juillet, Atlanta"
+      "right": "Argentine",
+      "when": "Mardi 7 juillet 2026, 18h (heure française) à Atlanta"
     },
     {
       "left": "Suisse",
-      "right": "vainqueur Colombie-Ghana",
-      "when": "7 juillet, Vancouver"
+      "right": "Colombie",
+      "when": "Mardi 7 juillet 2026, 22h (heure française) à Vancouver"
     }
   ],
-  "updated": "3 juillet 2026"
+  "updated": "4 juillet 2026"
 }
