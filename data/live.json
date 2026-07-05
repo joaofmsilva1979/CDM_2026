@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 ap",
+      "score": "3-2 (a.p.)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -125,7 +125,7 @@
       "fa": "🇦🇷",
       "b": "CapVert",
       "fb": "🇨🇻",
-      "score": "3-2 ap",
+      "score": "3-2 (a.p.)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -163,44 +163,44 @@
   ],
   "r16": [
     {
-      "left": "Canada",
-      "right": "Maroc",
-      "when": "4 juillet 2026 — terminé : Maroc 3-0 Canada"
+      "left": "Maroc",
+      "right": "Canada",
+      "when": "4 juillet 2026 (terminé : Maroc 3-0 Canada, qualifié pour les quarts)"
     },
     {
       "left": "France",
       "right": "Paraguay",
-      "when": "4 juillet 2026 — terminé : France 1-0 Paraguay"
+      "when": "4 juillet 2026 (terminé : France 1-0 Paraguay, qualifiée pour les quarts vs Maroc le 9 juillet)"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "5 juillet 2026, 16h ET (aujourd'hui)"
+      "when": "5 juillet 2026, 16h (heure locale) à MetLife Stadium (New Jersey) - à jouer"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "5 juillet 2026, 20h ET (aujourd'hui)"
+      "when": "5 juillet 2026, 20h (heure locale) à l'Estadio Azteca (Mexico) - à jouer"
     },
     {
-      "left": "Portugal",
-      "right": "Espagne",
-      "when": "6 juillet 2026, 15h ET"
+      "left": "Espagne",
+      "right": "Portugal",
+      "when": "6 juillet 2026, 15h (heure locale) à l'AT&T Stadium (Dallas) - à venir"
     },
     {
       "left": "Belgique",
       "right": "EtatsUnis",
-      "when": "6 juillet 2026, 20h ET"
+      "when": "6 juillet 2026, 20h (heure locale) au Lumen Field (Seattle) - à venir"
     },
     {
-      "left": "Argentine",
-      "right": "Egypte",
-      "when": "7 juillet 2026, 12h ET"
+      "left": "Egypte",
+      "right": "Argentine",
+      "when": "7 juillet 2026, 12h (heure locale) au Mercedes-Benz Stadium (Atlanta) - à venir"
     },
     {
       "left": "Suisse",
       "right": "Colombie",
-      "when": "7 juillet 2026, 16h ET"
+      "when": "7 juillet 2026, 16h (heure locale) au BC Place (Vancouver) - à venir"
     }
   ],
   "updated": "5 juillet 2026"
