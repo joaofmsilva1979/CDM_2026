@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 (a.p.)",
+      "score": "3-2 ap",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -112,7 +112,7 @@
     },
     {
       "a": "Angleterre",
-      "fa": "🇬🇧",
+      "fa": "🏴",
       "b": "RDCongo",
       "fb": "🇨🇩",
       "score": "2-1",
@@ -125,7 +125,7 @@
       "fa": "🇦🇷",
       "b": "CapVert",
       "fb": "🇨🇻",
-      "score": "3-2 (a.p.)",
+      "score": "3-2 ap",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -165,43 +165,43 @@
     {
       "left": "Canada",
       "right": "Maroc",
-      "when": "Samedi 4 juillet 2026, 19h00 (heure de Paris) - Houston - Terminé : Maroc 3-0 Canada"
+      "when": "4 juillet 2026 — terminé : Maroc 3-0 Canada"
     },
     {
       "left": "France",
       "right": "Paraguay",
-      "when": "Samedi 4 juillet 2026, 23h00 (heure de Paris) - Philadelphie"
+      "when": "4 juillet 2026 — terminé : France 1-0 Paraguay"
     },
     {
       "left": "Bresil",
       "right": "Norvege",
-      "when": "Dimanche 5 juillet 2026, 22h00 (heure de Paris) - East Rutherford"
+      "when": "5 juillet 2026, 16h ET (aujourd'hui)"
     },
     {
       "left": "Mexique",
       "right": "Angleterre",
-      "when": "Dimanche 5 juillet 2026 / Lundi 6 juillet 2026 (2h00, heure de Paris) - Mexico"
+      "when": "5 juillet 2026, 20h ET (aujourd'hui)"
     },
     {
       "left": "Portugal",
       "right": "Espagne",
-      "when": "Lundi 6 juillet 2026, 21h00 (heure de Paris) - Arlington (Dallas)"
+      "when": "6 juillet 2026, 15h ET"
     },
     {
-      "left": "EtatsUnis",
-      "right": "Belgique",
-      "when": "Lundi 6 juillet 2026, 23h00 (heure de Paris) - Seattle"
+      "left": "Belgique",
+      "right": "EtatsUnis",
+      "when": "6 juillet 2026, 20h ET"
     },
     {
       "left": "Argentine",
       "right": "Egypte",
-      "when": "Mardi 7 juillet 2026, 18h00 (heure de Paris) - Atlanta"
+      "when": "7 juillet 2026, 12h ET"
     },
     {
       "left": "Suisse",
       "right": "Colombie",
-      "when": "Mardi 7 juillet 2026, 22h00 (heure de Paris) - Vancouver"
+      "when": "7 juillet 2026, 16h ET"
     }
   ],
-  "updated": "4 juillet 2026"
+  "updated": "5 juillet 2026"
 }
