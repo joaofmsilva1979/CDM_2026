@@ -75,7 +75,7 @@
       "fa": "🇧🇪",
       "b": "Senegal",
       "fb": "🇸🇳",
-      "score": "3-2 (a.p.)",
+      "score": "3-2 (ap)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -112,7 +112,7 @@
     },
     {
       "a": "Angleterre",
-      "fa": "🏴",
+      "fa": "🇬🇧",
       "b": "RDCongo",
       "fb": "🇨🇩",
       "score": "2-1",
@@ -125,7 +125,7 @@
       "fa": "🇦🇷",
       "b": "CapVert",
       "fb": "🇨🇻",
-      "score": "3-2 (a.p.)",
+      "score": "3-2 (ap)",
       "w": "a",
       "s": "done",
       "d": "terminé"
@@ -163,45 +163,45 @@
   ],
   "r16": [
     {
-      "left": "Paraguay",
-      "right": "France",
-      "when": "4 juillet 2026 - terminé, France s'impose 1-0"
+      "left": "Maroc (vainqueur PaysBas-Maroc)",
+      "right": "Canada (vainqueur AfriqueDuSud-Canada)",
+      "when": "4 juillet 2026 - terminé : Maroc 3-0 Canada"
     },
     {
-      "left": "Canada",
-      "right": "Maroc",
-      "when": "4 juillet 2026 - terminé, Maroc s'impose 3-0"
+      "left": "France (vainqueur France-Suède)",
+      "right": "Paraguay (vainqueur Allemagne-Paraguay)",
+      "when": "4 juillet 2026 - terminé : France 1-0 Paraguay"
     },
     {
-      "left": "Portugal",
-      "right": "Espagne",
-      "when": "6 juillet 2026, 21h (heure française) - à venir, Dallas"
+      "left": "Bresil (vainqueur Bresil-Japon)",
+      "right": "Norvege (vainqueur CoteDIvoire-Norvege)",
+      "when": "5 juillet 2026 - terminé : Norvège 2-1 Brésil"
     },
     {
-      "left": "Etats-Unis",
-      "right": "Belgique",
-      "when": "7 juillet 2026, 2h (heure française) - à venir, Seattle"
+      "left": "Mexique (vainqueur Mexique-Equateur)",
+      "right": "Angleterre (vainqueur Angleterre-RDCongo)",
+      "when": "5 juillet 2026 - terminé : Angleterre 3-2 Mexique"
     },
     {
-      "left": "Bresil",
-      "right": "Norvege",
-      "when": "5 juillet 2026, 22h (heure française) - se joue aujourd'hui, New Jersey"
+      "left": "Espagne (vainqueur Espagne-Autriche)",
+      "right": "Portugal (vainqueur Portugal-Croatie)",
+      "when": "6 juillet 2026, 15h ET (Dallas) - match du jour"
     },
     {
-      "left": "Mexique",
-      "right": "Angleterre",
-      "when": "6 juillet 2026, 2h (heure française) - se joue aujourd'hui/cette nuit, Mexico City"
+      "left": "Belgique (vainqueur Belgique-Senegal)",
+      "right": "EtatsUnis (vainqueur EtatsUnis-Bosnie)",
+      "when": "6 juillet 2026, 20h ET (Seattle) - match du jour"
     },
     {
-      "left": "Argentine",
-      "right": "Egypte",
-      "when": "7 juillet 2026, 18h (heure française) - à venir, Atlanta"
+      "left": "Argentine (vainqueur Argentine-CapVert)",
+      "right": "Egypte (vainqueur Australie-Egypte)",
+      "when": "7 juillet 2026, 12h ET (Atlanta) - à venir"
     },
     {
-      "left": "Suisse",
-      "right": "Colombie",
-      "when": "7 juillet 2026, 22h (heure française) - à venir, Vancouver"
+      "left": "Suisse (vainqueur Suisse-Algerie)",
+      "right": "Colombie (vainqueur Colombie-Ghana)",
+      "when": "7 juillet 2026, 16h ET (Vancouver) - à venir"
     }
   ],
-  "updated": "5 juillet 2026"
+  "updated": "6 juillet 2026"
 }
